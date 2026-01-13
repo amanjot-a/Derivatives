@@ -1,3 +1,6 @@
+(Plotting of graphs for the better understanding of working of different types of contracts, ie their profit/payoff)
+
+
 # Derivatives
 
 Python implementations of core derivatives concepts:
@@ -16,4 +19,3 @@ Python implementations of core derivatives concepts:
 
 ## Utilities
 - Payoff functions and helpers
-# Derivatives
